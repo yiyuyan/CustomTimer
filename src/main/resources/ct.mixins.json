@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.ct.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ct.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "MinecraftMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
